@@ -5,9 +5,9 @@ html, body{
 }
 
 .navbar{
-    background-color: lawngreen;
+    background-color: turquoise;
     overflow: hidden;
-    color: green;
+    color: teal;
     text-align: center;
     font-family: fantasy;
     top: 0;
@@ -16,7 +16,7 @@ html, body{
 }
 .jumbotron{
     background: rgba(0, 0, 0, 0.4);
-    color: lawngreen;
+    color: turquoise;
     text-align: center;
     font-family: fantasy;
     padding-top: 5px;
@@ -28,7 +28,7 @@ html, body{
 }
 .container{
     background:rgba(0, 0, 0, 0.4);
-    color: lawngreen;
+    color: turquoise;
     font-family: fantasy;
     margin-top: 200px;
     margin-bottom:200px;
@@ -45,8 +45,8 @@ a{
     font-size:xx-large;
 }
 footer{
-    background-color: lawngreen;
-    color: green;
+    background-color: turquoise;
+    color: teal;
     text-align: center;
     font-family: fantasy;
     bottom: 0;
