@@ -47,12 +47,13 @@ img.resize{
 a{
     font-size:xx-large;
 }
-a:visited, a:active, a:hover{
+a:visited, a:active, a:hover, a{
     color: darkgoldenrod;
+    font-size: xx-large;
 }
 i{
     color: yellow;
-    font-size: x-large;
+    font-size: xx-large;
 }
 footer{
     background-color: yellow;
